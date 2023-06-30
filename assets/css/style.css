@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    padding: 0;
+    margin: 0 auto;
+    max-width: 1440;
+    
+}
+h1,h2,h3,h4,h5,h6{
+    color: #37474F;
+}
+header{
+    background-color:#E0E0E0;
+}
+.navbar{
+    padding: 20px 0;
+    
+}
+.navbar-brand{
+    font-size: 30px;
+    font-weight: bold;
+}
+.active{
+    color: #4CAF4F !important;
+}
+nav ul{
+    padding-right: 200px;
+    font-size: 20px;
+    
+}
+nav ul li{
+    padding-left: 15px;
+}
+.nav-link:hover{
+    color: #4CAF4F ;
+}
+/* hero */
+.hero{
+    padding: 90px 0;
+}
+.hero span{
+    color: #4CAF4F ; 
+}
+/* clients */
+.clients{
+    background-color: #FFFFFF;
+    padding: 40px 0;
+}
+.c-item{
+    margin: 0 auto;
+}
+.com-items{
+    border: 2px solid #E6E6E6;
+    border-radius: 10px;
+    padding: 20px 30px;
+}
+button{
+    background-color: #4CAF4F !important;
+    font-size: 20px !important;
+}
+.login{
+    background-color:#E0E0E0 !important;
+}
+/* achievements */
+.achievements{
+    background-color:#E0E0E0;
+}
+.achievements span{
+    color: #4CAF4F ;
+}
+.achievements img{
+    width: 50px;
+    height: 50px;
+    
+}
+/* customer */
+.customer{
+    background-color: #E0E0E0;
+    padding: 50px 0 20px 0;
+}
+.tim{
+    color: #4CAF4F;
+}
+.meet{
+    color: #4CAF4F;
+}
+/* marketin */
+.marketing{
+    padding: 40px 0;
+}
+.marketing span{
+    color: #4CAF4F;
+}
+.box{
+    border: 2px solid #E6E6E6 ;
+    padding: 10px 20px;
+    text-align: center;
+    background-color: #d2e1e7e0;
+    border-radius: 10px;
+    margin-top: -80px;
+}
+/* footer */
+.footer-head{
+    background-color: #E0E0E0;
+    padding: 40px 0;
+}
+.footer-head a{
+    color: #FFFFFF ;
+    text-decoration: none;
+    background-color: #4CAF4F; 
+    padding: 10px 20px;  
+    
+}
+.footer-contact{
+    background-color: #37474F;
+}
+.footer-contact{
+    padding: 40px 0;
+    color: #FFFFFF;
+}
+.footer-contact a{
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: 35px;
+    font-weight: bold;  
+}
+.social-icon img{
+    margin-right: 10px;
+}
+.footer-contact h6{
+    color: #FFFFFF;
+}
+.footer-contact li{
+    list-style: none;
+}
+.footer-contact form a{
+    font-size: 25px;
+    color: black;
+    margin-left: -40px;
+}
+
+
+
